@@ -1,0 +1,7 @@
+
+@media screen and (min-width:428px) {
+    /*　画面サイズが375pxからはここを読み込む　*/
+    table{
+        width: 428px;
+    }
+}
